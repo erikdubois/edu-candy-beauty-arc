@@ -1,4 +1,4 @@
-# Making of arcolinux-candy-beauty-arc
+# edu-candy-beauty-arc
 
 Learn, have fun and enjoy.
 
